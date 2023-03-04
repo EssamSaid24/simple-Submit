@@ -18,5 +18,4 @@ Once the app is running, open it in your web browser by navigating to http://loc
 
 Fill out the form and click the "Submit" button. Your input will be saved and displayed in the console log.
 
-License
-This project is licensed under the MIT License.
+
